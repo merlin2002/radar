@@ -1,0 +1,25 @@
+{
+    "visual": {
+        "name": "radar",
+        "displayName": "雷达图",
+        "guid": "radar91275C762EF847969B236C51745DEF81",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "radar",
+        "supportUrl": "https://community.powerbi.com",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "2.6.0",
+    "author": {
+        "name": "xiongwei",
+        "email": "merlin2002@vip.qq.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
